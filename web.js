@@ -1,6 +1,6 @@
 function mulaiGame() {
   const TahunBenar = 2007;
-  let tryCount = 3; // 'try' adalah keyword, jadi ganti nama variabel
+  let tryCount = 3; // 
   let JawabanBenar = false;
 
   for (let i = 1; i <= tryCount; i++) {

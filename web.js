@@ -14,7 +14,7 @@ function mulaiGame() {
     let tebakan = Number(Jawaban);
 
     if (isNaN(tebakan)) {
-      alert("Koe Gak Input Nomor Blok Ulangi!");
+      alert("Kata chetgpiti pakai nomor bg!");
       break;
     }
 
